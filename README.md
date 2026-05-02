@@ -38,7 +38,7 @@ The app checks a user-submitted URL for common phishing patterns such as URL sho
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/homescreen.png)
+![Home Screen](images/home-screen.png)
 
 ### Test Cases
 ![Test Cases](images/test-cases.png)
