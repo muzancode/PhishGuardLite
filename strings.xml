@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhishGuardLite</string>
+    <string name="url_hint">Paste suspicious link</string>
+    <string name="check_url">Check URL</string>
+    <string name="phish_warning">⚠ Possible phishing link detected.</string>
+    <string name="safe_link">✅ Link appears safe (basic check).</string>
+</resources>
+
+
+
